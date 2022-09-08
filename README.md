@@ -7,6 +7,7 @@ Node JS'nin dosya işlemleri için **fs** modülünü kullanıyor. Çok sayıda 
 - fileRead
 - fileUnlink
 
+![Node JS fs Modülü](nodejs-file-sistem.gif)
 ## fileWrite
 
 Dosya oluşturmak ve dosyaya yazmak için kullanılır.

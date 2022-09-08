@@ -1,8 +1,7 @@
 const fs = require('fs');
+
 const { argv } = require('process');
-
 const file = 'employees.json';
-
 const action = argv.splice(2)[0];
 
 // Dosya oluşturma ve veri ekleme
