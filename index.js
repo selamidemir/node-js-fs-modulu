@@ -38,7 +38,7 @@ else if (action === 'delete') {
         if (err) console.log(err);
         else console.log('Dosya başarı ile silindi.');
     });
-} 
+}
 
 // İşlem yok
 else console.log("İşlem yok.");
